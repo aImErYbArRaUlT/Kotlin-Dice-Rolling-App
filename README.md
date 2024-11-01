@@ -5,7 +5,6 @@ The **Kotlin Dice Rolling App** is a simple and fun application that allows user
 
 ## Features
 - **Roll Dice**: Tap a button to roll a dice and see a randomly generated number.
-- **Custom Dice**: Select the number of sides on the dice (e.g., 6-sided, 8-sided).
 - **Animated Roll**: Watch a quick animation to make rolling the dice feel more dynamic and realistic.
 - **Clear and Intuitive UI**: Simple, user-friendly interface for easy interaction.
 
